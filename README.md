@@ -4,7 +4,7 @@
 
 - 일차별 실습 진행
 
-  * [2일차 실습](http://www.naver.com/)
+  * [2일차 실습](https://github.com/TransparentDeveloper/2022_SW_Preparatory_School_Tutoring/blob/main/secondDay.md)
   * [3일차 실습](http://www.naver.com/)
   * [4일차 실습](http://www.naver.com/)
   * [5일차 실습](http://www.naver.com/)
